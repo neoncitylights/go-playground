@@ -1,7 +1,7 @@
 go 1.20
 
 use (
-	./00-getting-started
+	./getting-started
 	./fuzz
 	./generics
 	./greetings
